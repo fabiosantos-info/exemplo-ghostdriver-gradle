@@ -4,5 +4,5 @@ jdk:
 notifications:
   email:
     recipients:
-      - stefanfk@gmail.com
+      - fabiosantos.info@terra.com.br
     on_success: always
